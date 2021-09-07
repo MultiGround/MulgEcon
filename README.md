@@ -1,18 +1,7 @@
-# Paper Developemnt Sample Plugin
+# MultiGround Economy Plugin
 
-[![Build Status](https://travis-ci.com/qogusdn1017/hyeon-sample-plugin.svg?branch=master)](https://travis-ci.com/qogusdn1017/hyeon-sample-plugin)
+멀티그라운드 이코노미
 
-## Environment
+외부 사용을 타겟팅하여 만들어지지 않았습니다.
 
-- [Paper 1.17](https://papermc.io/downloads) dependencies
-- [Tap](https://github.com/monun/tap) dependencies
-- [Kommand](https://github.com/monun/kommand/) dependencies
-- [Kotlin Plugin](https://github.com/monun/kotlin-plugin/) dependencies
-- .gitignore
-- [Travis CI](https://travis-ci.com/)
-- [Server Script](https://github.com/monun/server-script) / Using [aroxu's GoLang version](https://github.com/aroxu/server-script/)
-
-### This Project Needs:
-
-- [JDK 8 ~ 16](https://www.azul.com/downloads/) (Zulu OpenJDK is Recommended.)
-- Bsdtar package (on Linux)
+멀티그라운드 외의 곳에서 발생한 버그에 대해서는 책임지지 않습니다.
