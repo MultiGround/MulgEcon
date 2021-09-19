@@ -13,8 +13,8 @@ class EconEventHandler : Listener {
     }
 
     @EventHandler
-    fun onPlayerJoin(e: PlayerJoinEvent) {
-        getInstance().logger.info("Hello World!")
-        e.player.sendMessage(Component.text().content("Hello World!").build())
+    fun syncOnJoin(e: PlayerJoinEvent) {
+        e.player.sendMessage("Syncing local economy with database!")
+
     }
 }
